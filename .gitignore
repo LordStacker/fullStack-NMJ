@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/mjn/dist
+/mjn/tmp
+/mjn/out-tsc
+/mjn/bazel-out
+
+# Node
+/mjn/node_modules
+/mjn/npm-debug.log
+/mjn/yarn-error.log
+
+# IDEs and editors
+/mjn/.idea/
+/mjn/.project
+/mjn/.classpath
+/mjn.c9/
+/mjn*.launch
+/mjn/.settings/
+/mjn/*.sublime-workspace
+
+# Visual Studio Code
+/mjn/.vscode/*
+/mjn/!.vscode/settings.json
+/mjn/!.vscode/tasks.json
+/mjn/!.vscode/launch.json
+/mjn/!.vscode/extensions.json
+/mjn/.history/*
+
+# Miscellaneous
+/mjn/.angular/cache
+/mjn/.sass-cache/
+/mjn/connect.lock
+/mjn/coverage
+/mjn/libpeerconnection.log
+/mjn/testem.log
+/mjn/typings
+
+# System files
+/mjn/.DS_Store
+/mjn/Thumbs.db
+
+backEnd/obj
+backEnd/bin
